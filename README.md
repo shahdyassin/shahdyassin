@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Shahd Yassin</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate BakEnd developer from Egypt</h3>
 
-- 🌱 I’m currently learning **javaScript**
+- 🌱 I’m currently learning **Advanced .NET**
 
 - 📫 How to reach me **shahdyassin63@gmail.com**
 
