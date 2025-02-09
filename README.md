@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[a social media app]**
 
-- 🌱 I’m currently learning **SignalR, UnitTesting, Clean Architecture, CQRS, DDD principles, and Microservices Concepts**  
+- 🌱 I’m currently learning **Angular, SignalR, UnitTesting, Clean Architecture, CQRS, DDD principles, and Microservices Concepts**  
 
 - 👯 I’m looking to collaborate on **Open Source .NET Projects**: Projects that promote learning and community engagement.  
 
