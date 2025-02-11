@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **[a social media app]**
+- 🔭 I’m currently working on **[Building More Projects To Improve My Skills]**
 
 - 🌱 I’m currently learning **Angular, SignalR, UnitTesting, Clean Architecture, CQRS, DDD principles, and Microservices Concepts**  
 
